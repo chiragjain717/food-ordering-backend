@@ -38,4 +38,4 @@ A backend REST API project for an online food ordering system developed using Sp
 - Admin Dashboard
 
 ## Author
-Rinku Sahu
+Chirag jain
